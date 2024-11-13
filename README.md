@@ -9,7 +9,7 @@
 	<tr>
 		<td>NAMA</td>
 		<td>BINTANG AULIA PUTRA</td>
-		<td width="200" rowspan="11">image src="Bintang1.jpg" width="200" </td>
+		<td width="200" rowspan="11"><image src="Bintang1.jpg" width="200"> </td>
 	</tr>
 	<tr>
 		<td>NIM</td>
